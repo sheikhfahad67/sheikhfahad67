@@ -83,10 +83,12 @@ CodeIgniter framework in short period of time.
 ### React Carousel
 - It's customizable carousel for react applications.
 > npm i react-carousel-npm
+- https://www.npmjs.com/package/react-carousel-npm
 
 ### Axios Interceptor Hook
 - React hooks for `axios` with built in react-tostify integration. Simple to use with minimum configuration.
 > npm install axios react-toastify axios-interceptor-hook
+- https://www.npmjs.com/package/axios-interceptor-hook
 
 ## Certifications
 - Intro to Django Web Framework from Udemy online course
