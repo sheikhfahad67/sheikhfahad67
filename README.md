@@ -79,6 +79,15 @@ CodeIgniter framework in short period of time.
 >10 recommendations against his search keyword. This application is based on React as
 >frontend and backend on NodeJs and
 
+## NPM Packages
+### React Carousel
+- It's customizable carousel for react applications.
+> npm i react-carousel-npm
+
+### axios-interceptor-hook
+- React hooks for `axios` with built in react-tostify integration. Simple to use with minimum configuration.
+> npm install axios react-toastify axios-interceptor-hook
+
 ## Certifications
 - Intro to Django Web Framework from Udemy online course
 https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
