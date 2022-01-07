@@ -84,7 +84,7 @@ CodeIgniter framework in short period of time.
 - It's customizable carousel for react applications.
 > npm i react-carousel-npm
 
-### axios-interceptor-hook
+### Axios Interceptor Hook
 - React hooks for `axios` with built in react-tostify integration. Simple to use with minimum configuration.
 > npm install axios react-toastify axios-interceptor-hook
 
