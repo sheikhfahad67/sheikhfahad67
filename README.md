@@ -80,9 +80,9 @@ CodeIgniter framework in short period of time.
 >frontend and backend on NodeJs and
 
 ## Certifications
->Intro to Django Web Framework from Udemy online course
+- Intro to Django Web Framework from Udemy online course
 https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
->Blockchain course from Phalia International
+- Blockchain course from Phalia International
 
 ## Tech Skills
 - MEAN / MERN Stack
