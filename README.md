@@ -52,6 +52,48 @@ CodeIgniter framework in short period of time.
 >Bahria University - Islamabad
 >September 2016 to July 2020
 
+## Industrial Projects
+### Skanmi (Nextjs) [https://skanmi.com]
+#### Worked as user side appliction developer.
+>It's a swedan based food delivery application which facilatate people to order food. 
+>There are four major order options:
+- Pickup
+- Delivery
+- Dine-In
+- Reservation
+>Customer can order food via scaning QR code from restaurant table as well as from home.
+>Customer can reserve table by scheduling within seven days.
+>Customer can track it's order and check it's order history.
+>Customer can start and track buffet time.
+
+### VTech-Upgraded (Reactjs)
+#### Worked as a frontend lead developer.
+>It's a property leads management system for Real Estate Businesses.
+>Support can add lead from differrent sources like facebook, twilio and zillow.com etc.
+>Leads as a opportunities start displaying to admin.
+>Admin can assign it to user and it will visible to assigned user.
+>User can change its statuses and Admin can view all the statuses of all opportunities.
+>It's a complete opportunity management system.
+
+### Formatic (Nextjs) [https://app.myformatic.com]
+#### Worked as a frontend lead developer.
+>It's a general public platform to manage daily tasks like Trello, Asana and Jira.
+>Allow user to connect its google account and connects its sheets or forms.
+>User will able to start creating boards against its sheet and form and start breaking down into lists and cards.
+>User have ablity to drag and drop cards between lists.
+>All these management based on subscription.
+
+### Ventiswap (Reactjs, Blockchain) [https://ventiswapdev.com/bnb]
+>It's a crypto currency exchange system.
+>User can connect it's wallet and able to swap crypto.
+
+### Yoor (Reactjs, Blockchain) [https://yoor.art]
+>It's a NFT marketplace.
+>User can connect wallet.
+>Able to edit profile.
+>Able to create NFT and publish it.
+>User can Buy and Sell NFT.
+
 ## Project Highlights
 ### Helmet Detection in Riders for Law Enforcement (Final Year Project)
 >It’s a desktop application which is developed by using Machine Learning Techniques which is
@@ -89,6 +131,12 @@ CodeIgniter framework in short period of time.
 - React hooks for `axios` with built in react-tostify integration. Simple to use with minimum configuration.
 > npm install axios react-toastify axios-interceptor-hook
 - https://www.npmjs.com/package/axios-interceptor-hook
+
+### Axios Interceptor Hook Typescript
+- Upgraded (axios-interceptor-hook) version to typescript. 
+- React hooks for `axios` with built in react-tostify integration. Simple to use with minimum configuration.
+> npm install axios react-toastify axios-hook-typescript
+- https://www.npmjs.com/package/axios-hook-typescript
 
 ## Certifications
 - Intro to Django Web Framework from Udemy online course
