@@ -146,6 +146,19 @@ https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
 
 ## Tech Skills
 - MEAN / MERN Stack
+- NodeJs
+- Angular
+- React
+- Vue
+- Vuex
+- Redux
+- SQL
+- MongoDB / MongoDB Atlas
+- Google Collaboratory
+- Heroku
+- Netlify
+- Vercel
+- Git
 - Web3
 - ether
 - moralis
@@ -164,17 +177,7 @@ https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
 - jQuery / AJAX
 - JSON
 - Pug
-- NodeJs
-- Angular
-- React
-- Vue
-- Vuex
-- Redux
-- SQL
-- MongoDB / MongoDB Atlas
-- Google Collaboratory
-- Heroku
-- Git
+
 
 ## Social Links
 - https://www.linkedin.com/in/muhammad-fahad-25bb60133
