@@ -145,6 +145,9 @@ https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
 
 ## Tech Skills
 - MEAN / MERN Stack
+- Web3
+- ether
+- moralis
 - C/C++
 - C#
 - Python
