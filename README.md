@@ -139,6 +139,7 @@ CodeIgniter framework in short period of time.
 - https://www.npmjs.com/package/axios-hook-typescript
 
 ## Certifications
+- Blockchain solidity https://www.udemy.com/certificate/UC-3eeeae00-48d6-4a06-8609-6671bdeb5a5a/
 - Intro to Django Web Framework from Udemy online course
 https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
 - Blockchain course from Phalia International
