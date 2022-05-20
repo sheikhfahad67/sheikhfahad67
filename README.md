@@ -7,16 +7,27 @@
 >while utilizing my skills help to promote organization mission and exceed team goal.
 
 ## Work Experience
+### Web Engineer
+>BitSol - Islamabad
+>May 2022 to Present
+- Responsible to work as MERN stack developer.
+- Got a chance to work: 
+  * On a very large project as well as very cooprative team members.
+  * With serverless architecture as well as with firebase database and storage.
+  * With new technolodies like GraphQl and rich libraries like Ag-Grid etc.
+  * Code optimization and best practices in the market that are followed.
+  * In professional envirnoment, to be a part of daily scrums.
+
 ### MERN stack developer
 >Invotyx - Islamabad
->December 2020 to Present
+>December 2020 to April 2022
 - Involved in all stages of Software Development Life Cycle (SDLC) like application design, development,
 debugging and testing the application.
 - Leading a team of persons and make sure they maintain the coding standards.
 - Develop projects from the scratch and define a standardize structure for increase efficiency of the
 application.
 - Convert figma designs to the React base components.
-- Creating and adopt best practices for the component’s reusability. Always search for the best practices
+- Implementing and adopt best practices for the component’s reusability. Always search for the best practices
 and boilerplates for standard structure.
 - Responsible for creating user interface using HTML5, CSS3, JavaScript, jQuery, React.
 - React as framework to create efficient web application which can bind data to specific views and
