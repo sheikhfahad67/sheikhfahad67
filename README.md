@@ -83,7 +83,7 @@ CodeIgniter framework in short period of time.
 >User have ablity to drag and drop cards between lists.
 >All these management based on subscription.
 
-### Ventiswap (Reactjs, Blockchain) [https://ventiswapdev.com/bnb]
+### Ventiswap (Reactjs, Blockchain) [https://app.ventiswap.com/]
 >It's a crypto currency exchange system.
 >User can connect it's wallet and able to swap crypto.
 
