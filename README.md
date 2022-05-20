@@ -8,7 +8,7 @@
 
 ## Work Experience
 ### Web Engineer
->BitSol - Islamabad
+>Bitsol Technologies - Islamabad
 >May 2022 to Present
 - Responsible to work as MERN stack developer.
 - Got a chance to work: 
