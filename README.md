@@ -3,61 +3,6 @@
 >Hi,
 >Results-driven web developer with a solid background in creating captivating and user-friendly websites. With over 3 years of experience, I excel in full stack development, specializing in HTML, CSS, JavaScript, and TypeScript. My proficiency extends to utilizing cutting-edge frameworks such as React, Next, Node, Nest, Express.js, and PostgreSQL to construct dynamic and interactive web applications. I possess exceptional collaborative skills, enabling effective teamwork and the ability to articulate complex technical concepts to non-technical stakeholders. Committed to staying abreast of the latest web development trends, I continuously enhance development processes to deliver high-quality, scalable, and efficient web solutions. If you are seeking a motivated and skilled full stack developer who is passionate about pushing the boundaries of web development, let's discuss how I can contribute to your organization's success.
 
-## Work Experience
-### Senior Web Engineer
->Bitsol Technologies - Islamabad
->May 2022 to Present
-#### Key Responsibilities:
-* Serve as a senior MERN stack developer, contributing to large-scale projects and collaborating effectively with team members. 
-* Collaborate effectively with team members on large-scale projects, ensuring adherence to test-driven development practices.
-* Utilize serverless architecture and leverage Firebase database and storage solutions to deliver high-performance web applications. 
-* Stay updated with emerging technologies, incorporating tools like GraphQL and leveraging feature-rich libraries like Ag-Grid. 
-* Take ownership of Node.js, Nest.js, React, and Next.js development tasks, ensuring efficient and reliable code implementation. 
-* Implement code optimization techniques and adhere to industry best practices to deliver high-quality and performant solutions. 
-* Actively participate in daily scrum meetings, fostering a professional and collaborative work environment. 
-* Engage in daily client meetings, effectively communicating project progress and gathering feedback to ensure alignment with client requirements.
-
-### MERN stack developer
->Invotyx - Islamabad
->December 2020 to April 2022
-#### Key Responsibilities:
-* Provide leadership and guidance to a team of developers, ensuring adherence to coding standards and best practices. 
-* Take ownership of full-stack development projects, establishing standardized structures to enhance application efficiency. 
-* Translate Figma designs into reusable React-based components, promoting consistency and maintainability. 
-* Foster best practices for component reusability, continuously improving development processes and efficiency. 
-* Stay up to date with industry best practices and seek out boilerplates for standardized project structures. 
-* Responsible for creating user interfaces using HTML5, CSS3, JavaScript, jQuery, and React, leveraging React as a framework to build efficient web applications with synchronized data handling. 
-* Conduct thorough testing of websites across multiple browsers and various screen sizes to ensure optimal functionality. 
-* Utilize services to efficiently access data required for UI components. 
-* Implement Node.js as a backend service, creating robust APIs to achieve project goals. 
-* Leverage MongoDB as a NoSQL database with Node.js backend, enabling fast and efficient data storage and retrieval services.
-
-
-### Full Stack developer
->Cloudtek - Islamabad
->July 2020 to December 2020
-#### Key Responsibilities:
-* Develop user interfaces using HTML5, CSS3, Pug, JavaScript, jQuery, Angular, React, Vue, and JSON, ensuring visually appealing and responsive designs. 
-* Utilize Angular, React, and Vue frameworks to create efficient web applications, facilitating data binding to specific views and enabling seamless data synchronization with the server. 
-* Conduct comprehensive testing of websites across multiple browsers to ensure optimal functionality and compatibility. 
-* Implement Node.js as a backend service to create robust servers and develop appropriate APIs that align with project goals. 
-* Design and implement secure authentication services using JSON Web Token (JWT) for enhanced user authentication and authorization. 
-* Leverage MongoDB, a NoSQL database, with Node.js backend to provide fast and efficient data storage and retrieval services, optimizing overall application performance.
-
-### Web Development Intern
->Metis International Pvt - Islamabad
->July 2018 to August 2018
-#### Key Responsibilities:
-* Learn core PHP with frontend technologies HTML5, CSS3, Bootstrap, jQuery, JavaScript. Learn PHP
-CodeIgniter framework in short period of time.
-* Work on industrial project to create different components.
-* Experience of working with team of 6 people communication and collaborate with team members.
-
-## Education
->Bachelor's in Information Technology
->Bahria University - Islamabad
->September 2016 to July 2020
-
 ## Industrial Projects
 ### Skanmi (Nextjs) [https://skanmi.com]
 #### Worked as user side appliction developer.
