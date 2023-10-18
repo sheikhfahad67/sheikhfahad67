@@ -131,5 +131,4 @@ https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
 
 
 ## Social Links
-- https://www.linkedin.com/in/muhammad-fahad-25bb60133
 - https://stackoverflow.com/users/12787560/sheikh-fahad
