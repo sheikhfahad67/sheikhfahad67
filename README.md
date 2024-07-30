@@ -4,7 +4,7 @@
 >Results-driven web developer with a solid background in creating captivating and user-friendly websites. With over 3 years of experience, I excel in full stack development, specializing in HTML, CSS, JavaScript, and TypeScript. My proficiency extends to utilizing cutting-edge frameworks such as React, Next, Node, Nest, Express.js, and PostgreSQL to construct dynamic and interactive web applications. I possess exceptional collaborative skills, enabling effective teamwork and the ability to articulate complex technical concepts to non-technical stakeholders. Committed to staying abreast of the latest web development trends, I continuously enhance development processes to deliver high-quality, scalable, and efficient web solutions. If you are seeking a motivated and skilled full stack developer who is passionate about pushing the boundaries of web development, let's discuss how I can contribute to your organization's success.
 
 ## Industrial Projects
-### Skanmi (Nextjs) [https://skanmi.com]
+### Skanmi (Nextjs)
 #### Worked as user side appliction developer.
 >It's a swedan based food delivery application which facilatate people to order food. 
 >There are four major order options:
@@ -26,7 +26,7 @@
 >User can change its statuses and Admin can view all the statuses of all opportunities.
 >It's a complete opportunity management system.
 
-### Formatic (Nextjs) [https://app.myformatic.com]
+### Formatic (Nextjs)
 #### Worked as a frontend lead developer.
 >It's a general public platform to manage daily tasks like Trello, Asana and Jira.
 >Allow user to connect its google account and connects its sheets or forms.
@@ -34,11 +34,11 @@
 >User have ablity to drag and drop cards between lists.
 >All these management based on subscription.
 
-### Ventiswap (Reactjs, Blockchain) [https://app.ventiswap.com/]
+### Ventiswap (Reactjs, Blockchain)
 >It's a crypto currency exchange system.
 >User can connect it's wallet and able to swap crypto.
 
-### Yoor (Reactjs, Blockchain) [https://yoor.art]
+### Yoor (Reactjs, Blockchain)
 >It's a NFT marketplace.
 >User can connect wallet.
 >Able to edit profile.
@@ -97,13 +97,13 @@ https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
 
 ## Tech Skills
 - MEAN / MERN Stack
+- ComfyUI
+- Image Generation
 - NodeJs
-- Angular
+- NestJs
 - React
-- Vue
-- Vuex
 - Redux
-- SQL
+- SQL / PostgresSQL
 - MongoDB / MongoDB Atlas
 - Google Collaboratory
 - Heroku
@@ -113,8 +113,6 @@ https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
 - Web3
 - ether
 - moralis
-- C/C++
-- C#
 - Python
   * TensorFlow
   * Keras
@@ -125,10 +123,6 @@ https://www.udemy.com/certificate/UC-36fcb1f0-d873-456f-bd33-255752525724/
 - HTML5 & CSS3
 - BootStrap 4
 - Material UI
-- jQuery / AJAX
-- JSON
-- Pug
-
 
 ## Social Links
 - https://stackoverflow.com/users/12787560/sheikh-fahad
